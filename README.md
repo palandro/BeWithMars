@@ -1,5 +1,5 @@
 # Marsland
-Management repository for the VR application "Be With Mars" which is a VR application where you can learn about the NASA InSight Mars Lander. 
+Management repository for the VR application "Be With Mars" which is a VR application where you can learn about the Mars InSight Lander from NASA.
 
 Disclaimer:
 This project is not created or managed by NASA. This is a private project.
@@ -9,5 +9,5 @@ https://vicator.itch.io/be-with-mars
 
 Note that the application is under development and even basic functionality is lacking at the moment.
 
-If you want to know more about the MARS InSight Mission please visit:
+If you want to know more about the Mars InSight Mission please visit:
 https://mars.nasa.gov/insight/
