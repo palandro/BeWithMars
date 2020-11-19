@@ -8,3 +8,6 @@ Here you can find some info about the project and download executables - current
 https://vicator.itch.io/be-with-mars
 
 Note that the application is under development and even basic functionality is lacking at the moment.
+
+If you want to know more about the MARS InSight Mission please visit:
+https://mars.nasa.gov/insight/
