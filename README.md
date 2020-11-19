@@ -1,4 +1,4 @@
-# BeWithMars
+# Marsland
 Management repository for the VR application "Be With Mars" which is a VR application where you can learn about the NASA InSight Mars Lander. 
 
 Disclaimer:
