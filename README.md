@@ -22,5 +22,5 @@ https://mars.nasa.gov/insight/
 ### Usage
 Locomotion schemes:
  - You can either walk freely
- - Smooth locomotion: Left thumbpad
+ - or use smooth locomotion with: Left thumbpad
 
