@@ -12,15 +12,15 @@ If you want to know more about the Mars InSight Mission please visit:
 https://mars.nasa.gov/insight/
 
 
-### Usage
-Locomotion schemes:
- - You can either walk freely
- - Smooth locomotion: Left thumbpad
- 
 # Release notes
-## v0.0.1
+## v0.0.1 - Oculus Quest Build
 ### Features:
  - Walk around the lander
  - Extend the two arms that carry the solar arrays: X-Button
  - Open the solar arrays themselves: Y-Button
- 
+
+### Usage
+Locomotion schemes:
+ - You can either walk freely
+ - Smooth locomotion: Left thumbpad
+
