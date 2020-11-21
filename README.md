@@ -21,6 +21,6 @@ Locomotion schemes:
 ## v0.0.1
 ### Features:
  - Walk around the lander
- - Extend solar arrays arm: X-Button
- - Extend solar arrays: Y-Button
+ - Extend the two arms that carry the solar arrays: X-Button
+ - Open the solar arrays themselves: Y-Button
  
