@@ -10,3 +10,17 @@ Note that the application is under development and even basic functionality is l
 
 If you want to know more about the Mars InSight Mission please visit:
 https://mars.nasa.gov/insight/
+
+
+Usage:
+Locomotion schemes:
+ - You can either walk freely
+ - Smooth locomotion: Left thumbpad
+ 
+Features:
+ - Walk around the lander
+ - Extend solar arrays arm: X-Button
+ - Extend solar arrays: Y-Button
+ 
+ ## Release notes
+ # v0.0.1
