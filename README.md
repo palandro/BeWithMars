@@ -22,5 +22,5 @@ Features:
  - Extend solar arrays arm: X-Button
  - Extend solar arrays: Y-Button
  
- ## Release notes
- # v0.0.1
+ # Release notes
+ ## v0.0.1
