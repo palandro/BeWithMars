@@ -1,20 +1,20 @@
 # Marsland
-Management repository for the VR application "Marsland" which is a VR application where you can learn about the Mars InSight Lander from NASA.
+Management repository for the VR application "Marsland" - a VR application where you can visit and learn about the Mars InSight Lander from NASA.
 
 Disclaimer:
 This project is not created or managed by NASA. This is a private project.
 
 Here you can find some info about the project and download some test apk's for the Oculus Quest.
 
-Note that the application is under development and even basic functionality is lacking at the moment.
+Please note that the application is under development and even basic functionality is lacking at the moment.
 
 If you want to know more about the Mars InSight Mission please visit:
 https://mars.nasa.gov/insight/
 
 ### Usage
 Locomotion schemes:
- - You can either walk freely
- - or use smooth locomotion with: Left thumbpad
+ - Walk freely
+ - or use smooth locomotion with the Left thumbpad on your hand controller
 
 Buttons:
  - A: Unfold/fold solar array
@@ -26,16 +26,21 @@ Buttons:
 ## v0.0.2 - Oculus Quest Build
 https://github.com/palandro/Marsland/releases/tag/v0.0.2
 ### Features:
-(Changed) Extend the solar array using the A-button. The two arms and their respective solar arrays fold completely using the same button.
+(Changed) Unfold the solar array using the A-button on the right hand controller. The two arms and their respective solar arrays unfold completely using the same button.
+
 (Added) After being unfolded, the solar array can be folded back in again using the A-button.
-(Added) Surrounding landscape
+
+(Added) Surrounding landscape.
+
 (Added) Collider hindering the user from being able to transition inside the lander using smooth locomotion. The user can however freely walk inside the lander manually.
 
 ## v0.0.1 - Oculus Quest Build
 https://github.com/palandro/Marsland/releases/tag/v0.0.1
 ### Features:
 (Added) Walk around the lander
-(Added) Extend the two arms that carry the solar arrays: X-Button
-(Added) Open the solar arrays themselves: Y-Button
+
+(Added) Extend the two arms that carry the solar arrays: X-Button (right hand controller)
+
+(Added) Open the solar arrays themselves: Y-Button (right hand controller)
 
 
