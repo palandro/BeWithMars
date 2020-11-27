@@ -11,6 +11,16 @@ Note that the application is under development and even basic functionality is l
 If you want to know more about the Mars InSight Mission please visit:
 https://mars.nasa.gov/insight/
 
+### Usage
+Locomotion schemes:
+ - You can either walk freely
+ - or use smooth locomotion with: Left thumbpad
+
+Buttons:
+ - A: Unfold/fold solar array
+ - Left Thumbstick: Smooth locomotion
+ - Right Thumbstick: Snap turn
+
 
 # Release notes
 ## v0.0.2 - Oculus Quest Build
@@ -26,12 +36,4 @@ https://mars.nasa.gov/insight/
 (Added) Extend the two arms that carry the solar arrays: X-Button
 (Added) Open the solar arrays themselves: Y-Button
 
-### Usage
-Locomotion schemes:
- - You can either walk freely
- - or use smooth locomotion with: Left thumbpad
 
-Buttons:
- - A: Unfold/fold solar array
- - Left Thumbstick: Smooth locomotion
- - Right Thumbstick: Snap turn
