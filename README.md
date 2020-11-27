@@ -2,7 +2,7 @@
 Technical development repository for the VR application "Marsland" - a VR application where you can visit and learn about the Mars InSight Lander from NASA.
 
 Disclaimer:
-This project is not created or managed by NASA. This is a private project.
+This project is not created or managed by NASA. This is a private project made by an indie developer.
 
 Here you can find some info about the project and download some test apk's for the Oculus Quest.
 
