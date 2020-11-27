@@ -11,6 +11,9 @@ Please note that the application is under development and even basic functionali
 If you want to know more about the Mars InSight Mission please visit:
 https://mars.nasa.gov/insight/
 
+You can follow the development log on itch.io here:
+https://vicator.itch.io/marsland
+
 ### Usage
 Locomotion schemes:
  - Walk freely
