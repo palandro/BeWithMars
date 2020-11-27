@@ -1,5 +1,5 @@
 # Marsland
-Management repository for the VR application "Marsland" - a VR application where you can visit and learn about the Mars InSight Lander from NASA.
+Technical development repository for the VR application "Marsland" - a VR application where you can visit and learn about the Mars InSight Lander from NASA.
 
 Disclaimer:
 This project is not created or managed by NASA. This is a private project.
