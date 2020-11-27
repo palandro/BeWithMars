@@ -11,7 +11,7 @@ Please note that the application is under development and even basic functionali
 If you want to know more about the Mars InSight Mission please visit:
 https://mars.nasa.gov/insight/
 
-You can follow the development log on itch.io here:
+You can follow the development log and comment on itch.io here:
 https://vicator.itch.io/marsland
 
 You will soon be able to install the application via SideQuest from here (coming soon):
