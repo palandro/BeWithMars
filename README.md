@@ -13,14 +13,25 @@ https://mars.nasa.gov/insight/
 
 
 # Release notes
+## v0.0.2 - Oculus Quest Build
+### Features:
+(Changed) Extend the solar array using the A-button. The two arms and their respective solar arrays fold completely using the same button.
+(Added) After being unfolded, the solar array can be folded back in again using the A-button.
+(Added) Surrounding landscape
+(Added) Collider hindering the user from being able to transition inside the lander using smooth locomotion. The user can however freely walk inside the lander manually.
+
 ## v0.0.1 - Oculus Quest Build
 ### Features:
- - Walk around the lander
- - Extend the two arms that carry the solar arrays: X-Button
- - Open the solar arrays themselves: Y-Button
+(Added) Walk around the lander
+(Added) Extend the two arms that carry the solar arrays: X-Button
+(Added) Open the solar arrays themselves: Y-Button
 
 ### Usage
 Locomotion schemes:
  - You can either walk freely
  - or use smooth locomotion with: Left thumbpad
 
+Buttons:
+ - A: Unfold/fold solar array
+ - Left Thumbstick: Smooth locomotion
+ - Right Thumbstick: Snap turn
