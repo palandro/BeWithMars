@@ -14,6 +14,10 @@ https://mars.nasa.gov/insight/
 You can follow the development log on itch.io here:
 https://vicator.itch.io/marsland
 
+You will soon be able to install the application via SideQuest from here (coming soon):
+https://sidequestvr.com/app/2188
+
+
 ### Usage
 Locomotion schemes:
  - Walk freely
