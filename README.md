@@ -24,6 +24,7 @@ Buttons:
 
 # Release notes
 ## v0.0.2 - Oculus Quest Build
+https://github.com/palandro/Marsland/releases/tag/v0.0.2
 ### Features:
 (Changed) Extend the solar array using the A-button. The two arms and their respective solar arrays fold completely using the same button.
 (Added) After being unfolded, the solar array can be folded back in again using the A-button.
@@ -31,6 +32,7 @@ Buttons:
 (Added) Collider hindering the user from being able to transition inside the lander using smooth locomotion. The user can however freely walk inside the lander manually.
 
 ## v0.0.1 - Oculus Quest Build
+https://github.com/palandro/Marsland/releases/tag/v0.0.1
 ### Features:
 (Added) Walk around the lander
 (Added) Extend the two arms that carry the solar arrays: X-Button
