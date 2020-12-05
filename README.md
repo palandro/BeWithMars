@@ -18,18 +18,36 @@ You will soon be able to install the application via SideQuest from here (coming
 https://sidequestvr.com/app/2188
 
 
-### Usage
+### Usage (v0.0.3)
 Locomotion schemes:
  - Walk freely
  - or use smooth locomotion with the Left thumbpad on your hand controller
 
 Buttons:
  - A: Unfold/fold solar array
+ - B: Open Instrument Deployment Arm, pickup the Seismometer and place it on the Mars ground (autoplay)
  - Left Thumbstick: Smooth locomotion
  - Right Thumbstick: Snap turn
 
 
 # Release notes
+
+## v0.0.3 - Oculus Quest Build
+https://github.com/palandro/Marsland/releases/tag/v0.0.3
+### Features:
+(Added) Simple flashlight on the wrist of the right hand. Non-volumetric. For investigating hull and parts below the science deck.
+
+(Added) Auto-play animation (on the press of a button) where the Instrument Deployment Arm opens up, lifts up the seismometer and puts it on the Mars ground.
+
+(Added) Simple signs with questionmarks. At the moment they act as placeholders for future interesting components on the lander which the user will be able to investigate and learn more about.
+
+(Changed) Surrounding landscape to use separate material to omit it from shadow map generation pass.
+
+(Fixed) Changed multiple objects to use the URP Simple Lit shader. Some were using the Lit shader as well as the Standard shader.
+
+(Fixed) Changed hands to use the URP Simple Lit shader.
+
+
 ## v0.0.2 - Oculus Quest Build
 https://github.com/palandro/Marsland/releases/tag/v0.0.2
 ### Features:
@@ -40,6 +58,7 @@ https://github.com/palandro/Marsland/releases/tag/v0.0.2
 (Added) Surrounding landscape.
 
 (Added) Collider hindering the user from being able to transition inside the lander using smooth locomotion. The user can however freely walk inside the lander manually.
+
 
 ## v0.0.1 - Oculus Quest Build
 https://github.com/palandro/Marsland/releases/tag/v0.0.1
