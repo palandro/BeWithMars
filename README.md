@@ -14,8 +14,7 @@ https://mars.nasa.gov/insight/
 You can follow the development log and comment on the progress on itch.io:
 https://vicator.itch.io/marsland
 
-You will soon be able to install the application via SideQuest from here (coming soon):
-https://sidequestvr.com/app/2188
+You will soon be able to install the application via SideQuest.
 
 
 ### Usage (v0.0.3)
