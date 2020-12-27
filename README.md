@@ -17,19 +17,43 @@ https://vicator.itch.io/marsland
 You will soon be able to install the application via SideQuest.
 
 
-### Usage (v0.0.3)
+### Usage (v0.0.4)
 Locomotion schemes:
- - Walk freely
- - or use smooth locomotion with the Left thumbpad on your hand controller
-
+ - Walk freely, Teleporation, Smooth Locomotion (also called Continous Locomotion)
+ 
 Buttons:
  - A: Unfold/fold solar array
  - B: Open Instrument Deployment Arm, pickup the Seismometer and place it on the Mars ground (autoplay)
+ - Start: Open Options menu on left hand
  - Left Thumbstick: Smooth locomotion
  - Right Thumbstick: Snap turn
 
 
 # Release notes
+
+## v0.0.4 - Oculus Quest Build
+https://github.com/palandro/Marsland/releases/tag/v0.0.4
+### Features:
+(Added) Teleportation locomotion (default locomotion mode)
+
+(Added) Options menu. With sections for Locomotion, Credits and About. The menu attaches to the left hand.
+
+(Added) Option to switch between Teleportation and Smooth Locomotion.
+
+(Added) Laser aim pointer on right hand.
+
+(Added) Field-of-view limiter when Smooth Locomotion is active. Dynamic, based on locomotion speed.
+
+(Changed) Upgraded to use Unity 2019.4.16f1.
+
+(Changed) Upgraded to use Oculus Integration for Unity v23.0. The Oculus Quest 2 will now run the app at 90 Hz.
+
+(Changed) Removed remaining objects in scene that were wrongly using the Lit shader.
+
+(Changed) Replaced Quad mesh with Box mesh to instead use primitive box colliders for the surrounding landscape barrier.
+
+(Removed) Removed unused Oculus resources (Avatar, Lipsync). Saving approx 6 MB on textures and 3.5MB on shaders.
+
 
 ## v0.0.3 - Oculus Quest Build
 https://github.com/palandro/Marsland/releases/tag/v0.0.3
