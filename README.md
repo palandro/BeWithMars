@@ -44,6 +44,8 @@ https://github.com/palandro/Marsland/releases/tag/v0.0.4
 
 (Added) Field-of-view limiter when Smooth Locomotion is active. Dynamic, based on locomotion speed.
 
+(Added) Grid to hinder user from locomoting too far away into the landscape.
+
 (Changed) Upgraded to use Unity 2019.4.16f1.
 
 (Changed) Upgraded to use Oculus Integration for Unity v23.0. The Oculus Quest 2 will now run the app at 90 Hz.
