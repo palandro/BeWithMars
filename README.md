@@ -31,6 +31,21 @@ Buttons:
 
 # Release notes
 
+## v0.0.5 - Oculus Quest Build
+https://github.com/palandro/Marsland/releases/tag/v0.0.5
+### Features:
+(Added) Controller Haptic Vibration feedback when the user is hovering over option menu buttons with the laser pointer.
+(Added) Exit button at top node of the option menu. Same functionality as pressing the controller Start button.
+(Changed) Complete redesign of the option menu control logic.
+(Changed) Both the right- and left hand menus are now hidden by default. The menues are enabled by pressing the controller Start button.
+(Changed) Upgraded to use Unity 2019.4.19f1.
+(Fixed) Consolidated position layout and transparency values of the options menu.
+(Fixed) Stopped player colliding with the arm/seis which was causing the player being pushed by force.
+(Fixed) User can no longer activate teleportation/locomotion while using the option menu.
+(Performance) Decreased how often the BoundaryGridController is being called. Was called every frame before.
+
+
+
 ## v0.0.4 - Oculus Quest Build
 https://github.com/palandro/Marsland/releases/tag/v0.0.4
 ### Features:
