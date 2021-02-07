@@ -17,15 +17,15 @@ https://vicator.itch.io/marsland
 You will soon be able to install the application via SideQuest.
 
 
-### Usage (v0.0.4)
+### Usage (v0.0.5)
 Locomotion schemes:
  - Walk freely, Teleporation, Smooth Locomotion (also called Continous Locomotion)
  
 Buttons:
  - A: Unfold/fold solar array
  - B: Open Instrument Deployment Arm, pickup the Seismometer and place it on the Mars ground (autoplay)
- - Start: Open Options menu on left hand
- - Left Thumbstick: Smooth locomotion
+ - Start: Open the Options menu to enable configuration of locomotion mode and field of view reduction vignette
+ - Left Thumbstick: Teleportation / Smooth locomotion
  - Right Thumbstick: Snap turn
 
 
